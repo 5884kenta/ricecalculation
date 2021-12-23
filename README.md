@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+| 記述すること            | 備考   | 
+| --------------------- | ------ |
+| アプリケーション名       | ricecaluclation |
+| アプリケーション概要     |自分達家族がどれだけのお米を消費しているか、分かるようにできる。また、生産している田んぼの広さも分かる|
+| 洗い出した要件          |  https://github.com/5884kenta/ricecalculation.git |
